@@ -1,0 +1,1048 @@
+Question: What is the capital of France? Answer: Paris.
+Question: What is the largest planet in our solar system? Answer: Jupiter.
+Question: Who wrote Romeo and Juliet? Answer: William Shakespeare.
+Question: What is the chemical symbol for water? Answer: H2O.
+Question: What is 7 times 8? Answer: 56.
+Question: Who painted the Mona Lisa? Answer: Leonardo da Vinci.
+Question: What is the smallest continent? Answer: Australia.
+Question: What year did World War II end? Answer: 1945.
+Question: What is the speed of light? Answer: Approximately 299,792 kilometers per second.
+Question: Who discovered penicillin? Answer: Alexander Fleming.
+Question: What is the capital of Japan? Answer: Tokyo.
+Question: What is the longest river in the world? Answer: The Nile River.
+Question: Who wrote Pride and Prejudice? Answer: Jane Austen.
+Question: What is the atomic number of carbon? Answer: 6.
+Question: What is 12 plus 15? Answer: 27.
+Question: Who composed the Four Seasons? Answer: Antonio Vivaldi.
+Question: What ocean is the largest? Answer: The Pacific Ocean.
+Question: Who was the first president of the United States? Answer: George Washington.
+Question: What is the chemical formula for table salt? Answer: NaCl.
+Question: What is the square root of 144? Answer: 12.
+Question: What is the capital of Italy? Answer: Rome.
+Question: Who painted Starry Night? Answer: Vincent van Gogh.
+Question: What is the tallest mountain in the world? Answer: Mount Everest.
+Question: Who discovered gravity? Answer: Isaac Newton.
+Question: What is the capital of Spain? Answer: Madrid.
+Question: What is 9 times 9? Answer: 81.
+Question: Who wrote To Kill a Mockingbird? Answer: Harper Lee.
+Question: What planet is known as the Red Planet? Answer: Mars.
+Question: What is the chemical symbol for gold? Answer: Au.
+Question: Who painted The Last Supper? Answer: Leonardo da Vinci.
+Question: What is the capital of Germany? Answer: Berlin.
+Question: What is the smallest ocean? Answer: The Arctic Ocean.
+Question: Who wrote 1984? Answer: George Orwell.
+Question: What is the boiling point of water? Answer: 100 degrees Celsius or 212 degrees Fahrenheit.
+Question: What is 15 minus 7? Answer: 8.
+Question: Who composed the Moonlight Sonata? Answer: Ludwig van Beethoven.
+Question: What is the capital of Canada? Answer: Ottawa.
+Question: What river runs through Egypt? Answer: The Nile River.
+Question: Who discovered America in 1492? Answer: Christopher Columbus.
+Question: What is the chemical symbol for oxygen? Answer: O.
+Question: What is 6 times 7? Answer: 42.
+Question: Who painted the Sistine Chapel ceiling? Answer: Michelangelo.
+Question: What is the capital of Australia? Answer: Canberra.
+Question: What is the second largest planet? Answer: Saturn.
+Question: Who wrote The Great Gatsby? Answer: F. Scott Fitzgerald.
+Question: What is the freezing point of water? Answer: 0 degrees Celsius or 32 degrees Fahrenheit.
+Question: What is 100 divided by 4? Answer: 25.
+Question: Who composed Swan Lake? Answer: Pyotr Ilyich Tchaikovsky.
+Question: What is the capital of Russia? Answer: Moscow.
+Question: What is the longest river in South America? Answer: The Amazon River.
+Question: Who was the first man on the moon? Answer: Neil Armstrong.
+Question: What is the chemical symbol for iron? Answer: Fe.
+Question: What is 11 times 11? Answer: 121.
+Question: Who painted Girl with a Pearl Earring? Answer: Johannes Vermeer.
+Question: What is the capital of China? Answer: Beijing.
+Question: What mountain range separates Europe and Asia? Answer: The Ural Mountains.
+Question: Who wrote Moby Dick? Answer: Herman Melville.
+Question: What is the smallest planet in our solar system? Answer: Mercury.
+Question: What is pi approximately equal to? Answer: 3.14159.
+Question: Who composed The Nutcracker? Answer: Pyotr Ilyich Tchaikovsky.
+Question: What is the capital of Brazil? Answer: Brasília.
+Question: What is the deepest ocean? Answer: The Pacific Ocean.
+Question: Who invented the telephone? Answer: Alexander Graham Bell.
+Question: What is the chemical formula for carbon dioxide? Answer: CO2.
+Question: What is 8 times 12? Answer: 96.
+Question: Who painted The Birth of Venus? Answer: Sandro Botticelli.
+Question: What is the capital of India? Answer: New Delhi.
+Question: What river runs through London? Answer: The Thames River.
+Question: Who wrote The Odyssey? Answer: Homer.
+Question: What is the closest planet to the Sun? Answer: Mercury.
+Question: What is 50 plus 50? Answer: 100.
+Question: Who composed the opera Carmen? Answer: Georges Bizet.
+Question: What is the capital of Mexico? Answer: Mexico City.
+Question: What is the largest desert in the world? Answer: The Sahara Desert.
+Question: Who discovered the theory of relativity? Answer: Albert Einstein.
+Question: What is the chemical symbol for silver? Answer: Ag.
+Question: What is 13 times 4? Answer: 52.
+Question: Who painted Guernica? Answer: Pablo Picasso.
+Question: What is the capital of Egypt? Answer: Cairo.
+Question: What ocean is between Africa and Australia? Answer: The Indian Ocean.
+Question: Who wrote The Catcher in the Rye? Answer: J.D. Salinger.
+Question: What is the largest moon of Saturn? Answer: Titan.
+Question: What is 144 divided by 12? Answer: 12.
+Question: Who composed the opera The Magic Flute? Answer: Wolfgang Amadeus Mozart.
+Question: What is the capital of Argentina? Answer: Buenos Aires.
+Question: What is the highest waterfall in the world? Answer: Angel Falls.
+Question: Who invented the light bulb? Answer: Thomas Edison.
+Question: What is the chemical symbol for sodium? Answer: Na.
+Question: What is 7 plus 8? Answer: 15.
+Question: Who painted The Scream? Answer: Edvard Munch.
+Question: What is the capital of South Korea? Answer: Seoul.
+Question: What river runs through Paris? Answer: The Seine River.
+Question: Who wrote War and Peace? Answer: Leo Tolstoy.
+Question: What planet has the most moons? Answer: Saturn.
+Question: What is 9 times 6? Answer: 54.
+Question: Who composed Für Elise? Answer: Ludwig van Beethoven.
+Question: What is the capital of Turkey? Answer: Ankara.
+Question: What is the second longest river in the world? Answer: The Amazon River.
+Question: Who discovered radioactivity? Answer: Marie Curie.
+Question: What is the chemical symbol for helium? Answer: He.
+Question: What is 20 times 5? Answer: 100.
+Question: Who painted The Night Watch? Answer: Rembrandt van Rijn.
+Question: What is the capital of South Africa? Answer: Pretoria (executive), Cape Town (legislative), and Bloemfontein (judicial).
+Question: What is the largest island in the world? Answer: Greenland.
+Question: Who wrote The Divine Comedy? Answer: Dante Alighieri.
+Question: What is the hottest planet in our solar system? Answer: Venus.
+Question: What is the square root of 81? Answer: 9.
+Question: Who composed the Hallelujah Chorus? Answer: George Frideric Handel.
+Question: What is the capital of Greece? Answer: Athens.
+Question: What strait separates Europe and Africa? Answer: The Strait of Gibraltar.
+Question: Who was the queen of England during Shakespeare's time? Answer: Queen Elizabeth I.
+Question: What is the chemical formula for ammonia? Answer: NH3.
+Question: What is 15 times 3? Answer: 45.
+Question: Who painted American Gothic? Answer: Grant Wood.
+Question: What is the capital of Thailand? Answer: Bangkok.
+Question: What is the largest lake in the world? Answer: The Caspian Sea.
+Question: Who wrote Hamlet? Answer: William Shakespeare.
+Question: What is the farthest planet from the Sun? Answer: Neptune.
+Question: What is 64 divided by 8? Answer: 8.
+Question: Who composed the 1812 Overture? Answer: Pyotr Ilyich Tchaikovsky.
+Question: What is the capital of Portugal? Answer: Lisbon.
+Question: What river runs through Rome? Answer: The Tiber River.
+Question: Who discovered the electron? Answer: J.J. Thomson.
+Question: What is the chemical symbol for nitrogen? Answer: N.
+Question: What is 17 plus 13? Answer: 30.
+Question: Who painted The Kiss? Answer: Gustav Klimt.
+Question: What is the capital of Poland? Answer: Warsaw.
+Question: What is the largest bay in the world? Answer: The Bay of Bengal.
+Question: Who wrote Jane Eyre? Answer: Charlotte Brontë.
+Question: What is the largest star in our solar system? Answer: The Sun.
+Question: What is 11 times 9? Answer: 99.
+Question: Who composed Rhapsody in Blue? Answer: George Gershwin.
+Question: What is the capital of Sweden? Answer: Stockholm.
+Question: What mountain range runs through South America? Answer: The Andes Mountains.
+Question: Who invented the printing press? Answer: Johannes Gutenberg.
+Question: What is the chemical symbol for copper? Answer: Cu.
+Question: What is 25 times 4? Answer: 100.
+Question: Who painted The Persistence of Memory? Answer: Salvador Dalí.
+Question: What is the capital of Norway? Answer: Oslo.
+Question: What is the longest river in Europe? Answer: The Volga River.
+Question: Who wrote Wuthering Heights? Answer: Emily Brontë.
+Question: What galaxy is Earth located in? Answer: The Milky Way.
+Question: What is 100 minus 37? Answer: 63.
+Question: Who composed the opera La Traviata? Answer: Giuseppe Verdi.
+Question: What is the capital of Denmark? Answer: Copenhagen.
+Question: What is the deepest lake in the world? Answer: Lake Baikal.
+Question: Who was the emperor of France who was exiled to Elba? Answer: Napoleon Bonaparte.
+Question: What is the chemical formula for methane? Answer: CH4.
+Question: What is 14 times 7? Answer: 98.
+Question: Who painted Water Lilies? Answer: Claude Monet.
+Question: What is the capital of Finland? Answer: Helsinki.
+Question: What ocean surrounds Antarctica? Answer: The Southern Ocean.
+Question: Who wrote The Iliad? Answer: Homer.
+Question: What is the brightest star in the night sky? Answer: Sirius.
+Question: What is the square root of 169? Answer: 13.
+Question: Who composed the Ode to Joy? Answer: Ludwig van Beethoven.
+Question: What is the capital of Austria? Answer: Vienna.
+Question: What river runs through Baghdad? Answer: The Tigris River.
+Question: Who invented the airplane? Answer: The Wright Brothers (Orville and Wilbur Wright).
+Question: What is the chemical symbol for lead? Answer: Pb.
+Question: What is 18 plus 22? Answer: 40.
+Question: Who painted Liberty Leading the People? Answer: Eugène Delacroix.
+Question: What is the capital of Hungary? Answer: Budapest.
+Question: What is the largest coral reef system? Answer: The Great Barrier Reef.
+Question: Who wrote Don Quixote? Answer: Miguel de Cervantes.
+Question: What is the second smallest planet? Answer: Mars.
+Question: What is 12 times 12? Answer: 144.
+Question: Who composed The Barber of Seville? Answer: Gioachino Rossini.
+Question: What is the capital of the Netherlands? Answer: Amsterdam.
+Question: What strait separates Asia and North America? Answer: The Bering Strait.
+Question: Who was the first Roman emperor? Answer: Augustus Caesar.
+Question: What is the chemical symbol for mercury? Answer: Hg.
+Question: What is 30 divided by 6? Answer: 5.
+Question: Who painted The Garden of Earthly Delights? Answer: Hieronymus Bosch.
+Question: What is the capital of Belgium? Answer: Brussels.
+Question: What is the longest mountain range in the world? Answer: The Andes Mountains.
+Question: Who wrote Frankenstein? Answer: Mary Shelley.
+Question: What is the largest asteroid in our solar system? Answer: Ceres.
+Question: What is 16 times 5? Answer: 80.
+Question: Who composed the William Tell Overture? Answer: Gioachino Rossini.
+Question: What is the capital of Switzerland? Answer: Bern.
+Question: What river forms part of the border between the United States and Mexico? Answer: The Rio Grande.
+Question: Who discovered the New World? Answer: Christopher Columbus.
+Question: What is the chemical formula for sulfuric acid? Answer: H2SO4.
+Question: What is 45 plus 55? Answer: 100.
+Question: Who painted The Arnolfini Portrait? Answer: Jan van Eyck.
+Question: What is the capital of Ireland? Answer: Dublin.
+Question: What is the saltiest sea in the world? Answer: The Dead Sea.
+Question: Who wrote Dracula? Answer: Bram Stoker.
+Question: What is the largest dwarf planet? Answer: Pluto.
+Question: What is 13 times 8? Answer: 104.
+Question: Who composed Clair de Lune? Answer: Claude Debussy.
+Question: What is the capital of Czech Republic? Answer: Prague.
+Question: What mountain is the highest in Africa? Answer: Mount Kilimanjaro.
+Question: Who invented the steam engine? Answer: James Watt.
+Question: What is the chemical symbol for potassium? Answer: K.
+Question: What is 27 plus 13? Answer: 40.
+Question: Who painted Las Meninas? Answer: Diego Velázquez.
+Question: What is the capital of New Zealand? Answer: Wellington.
+Question: What is the longest river in Asia? Answer: The Yangtze River.
+Question: Who wrote Macbeth? Answer: William Shakespeare.
+Question: What is the smallest star type? Answer: Red dwarf.
+Question: What is 19 times 3? Answer: 57.
+Question: Who composed the opera Rigoletto? Answer: Giuseppe Verdi.
+Question: What is the capital of Chile? Answer: Santiago.
+Question: What sea is between Italy and the Balkans? Answer: The Adriatic Sea.
+Question: Who was the pharaoh during the construction of the Great Pyramid? Answer: Khufu (Cheops).
+Question: What is the chemical symbol for calcium? Answer: Ca.
+Question: What is 72 divided by 9? Answer: 8.
+Question: Who painted The Hay Wain? Answer: John Constable.
+Question: What is the capital of Peru? Answer: Lima.
+Question: What is the highest mountain in North America? Answer: Denali (Mount McKinley).
+Question: Who wrote The Canterbury Tales? Answer: Geoffrey Chaucer.
+Question: What is the nearest star to Earth? Answer: The Sun.
+Question: What is the square root of 225? Answer: 15.
+Question: Who composed the Brandenburg Concertos? Answer: Johann Sebastian Bach.
+Question: What is the capital of Colombia? Answer: Bogotá.
+Question: What river runs through Vienna? Answer: The Danube River.
+Question: Who discovered the circulation of blood? Answer: William Harvey.
+Question: What is the chemical formula for glucose? Answer: C6H12O6.
+Question: What is 21 times 4? Answer: 84.
+Question: Who painted Nighthawks? Answer: Edward Hopper.
+Question: What is the capital of Venezuela? Answer: Caracas.
+Question: What is the largest peninsula? Answer: The Arabian Peninsula.
+Question: Who wrote A Tale of Two Cities? Answer: Charles Dickens.
+Question: What is the hottest star color? Answer: Blue.
+Question: What is 28 plus 32? Answer: 60.
+Question: Who composed the opera Aida? Answer: Giuseppe Verdi.
+Question: What is the capital of Ecuador? Answer: Quito.
+Question: What strait connects the Mediterranean Sea and the Atlantic Ocean? Answer: The Strait of Gibraltar.
+Question: Who was the last pharaoh of Egypt? Answer: Cleopatra VII.
+Question: What is the chemical symbol for zinc? Answer: Zn.
+Question: What is 15 times 6? Answer: 90.
+Question: Who painted The Fighting Temeraire? Answer: J.M.W. Turner.
+Question: What is the capital of Vietnam? Answer: Hanoi.
+Question: What is the largest volcano in the world? Answer: Mauna Loa.
+Question: Who wrote Oliver Twist? Answer: Charles Dickens.
+Question: What is the largest moon in our solar system? Answer: Ganymede.
+Question: What is 81 divided by 9? Answer: 9.
+Question: Who composed the Messiah? Answer: George Frideric Handel.
+Question: What is the capital of Philippines? Answer: Manila.
+Question: What river runs through Washington D.C.? Answer: The Potomac River.
+Question: Who invented the radio? Answer: Guglielmo Marconi.
+Question: What is the chemical symbol for aluminum? Answer: Al.
+Question: What is 23 times 3? Answer: 69.
+Question: Who painted The Blue Boy? Answer: Thomas Gainsborough.
+Question: What is the capital of Malaysia? Answer: Kuala Lumpur.
+Question: What is the second highest mountain? Answer: K2.
+Question: Who wrote Great Expectations? Answer: Charles Dickens.
+Question: What planet is tilted on its side? Answer: Uranus.
+Question: What is 35 plus 25? Answer: 60.
+Question: Who composed Pictures at an Exhibition? Answer: Modest Mussorgsky.
+Question: What is the capital of Indonesia? Answer: Jakarta.
+Question: What ocean is the warmest? Answer: The Indian Ocean.
+Question: Who was the king of England during the American Revolution? Answer: King George III.
+Question: What is the chemical formula for hydrochloric acid? Answer: HCl.
+Question: What is 17 times 5? Answer: 85.
+Question: Who painted The Raft of the Medusa? Answer: Théodore Géricault.
+Question: What is the capital of Saudi Arabia? Answer: Riyadh.
+Question: What is the driest desert? Answer: The Atacama Desert.
+Question: Who wrote The Picture of Dorian Gray? Answer: Oscar Wilde.
+Question: What is the most abundant element in the universe? Answer: Hydrogen.
+Question: What is the square root of 196? Answer: 14.
+Question: Who composed the opera Don Giovanni? Answer: Wolfgang Amadeus Mozart.
+Question: What is the capital of Pakistan? Answer: Islamabad.
+Question: What river runs through Budapest? Answer: The Danube River.
+Question: Who discovered the laws of planetary motion? Answer: Johannes Kepler.
+Question: What is the chemical symbol for tin? Answer: Sn.
+Question: What is 26 plus 14? Answer: 40.
+Question: Who painted Christina's World? Answer: Andrew Wyeth.
+Question: What is the capital of Bangladesh? Answer: Dhaka.
+Question: What is the largest gulf in the world? Answer: The Gulf of Mexico.
+Question: Who wrote Les Misérables? Answer: Victor Hugo.
+Question: What is the coldest planet? Answer: Uranus.
+Question: What is 18 times 4? Answer: 72.
+Question: Who composed the opera Tosca? Answer: Giacomo Puccini.
+Question: What is the capital of Iran? Answer: Tehran.
+Question: What mountain range separates France and Spain? Answer: The Pyrenees.
+Question: Who was the first president to live in the White House? Answer: John Adams.
+Question: What is the chemical symbol for phosphorus? Answer: P.
+Question: What is 48 divided by 6? Answer: 8.
+Question: Who painted Impression, Sunrise? Answer: Claude Monet.
+Question: What is the capital of Nigeria? Answer: Abuja.
+Question: What is the longest river in Africa? Answer: The Nile River.
+Question: Who wrote Brave New World? Answer: Aldous Huxley.
+Question: What is the largest type of star? Answer: Supergiant.
+Question: What is 22 times 5? Answer: 110.
+Question: Who composed the opera Madama Butterfly? Answer: Giacomo Puccini.
+Question: What is the capital of Kenya? Answer: Nairobi.
+Question: What sea is between Greece and Turkey? Answer: The Aegean Sea.
+Question: Who discovered the law of universal gravitation? Answer: Isaac Newton.
+Question: What is the chemical formula for ozone? Answer: O3.
+Question: What is 33 plus 17? Answer: 50.
+Question: Who painted The Calling of Saint Matthew? Answer: Caravaggio.
+Question: What is the capital of Morocco? Answer: Rabat.
+Question: What is the highest capital city in the world? Answer: La Paz, Bolivia.
+Question: Who wrote The Brothers Karamazov? Answer: Fyodor Dostoevsky.
+Question: What is the most common gas in Earth's atmosphere? Answer: Nitrogen.
+Question: What is the square root of 256? Answer: 16.
+Question: Who composed the opera La Bohème? Answer: Giacomo Puccini.
+Question: What is the capital of Algeria? Answer: Algiers.
+Question: What river runs through Prague? Answer: The Vltava River.
+Question: Who was the Roman general who crossed the Rubicon? Answer: Julius Caesar.
+Question: What is the chemical symbol for sulfur? Answer: S.
+Question: What is 19 times 6? Answer: 114.
+Question: Who painted The Third of May 1808? Answer: Francisco Goya.
+Question: What is the capital of Israel? Answer: Jerusalem.
+Question: What is the largest rainforest? Answer: The Amazon Rainforest.
+Question: Who wrote Crime and Punishment? Answer: Fyodor Dostoevsky.
+Question: What planet has a giant red spot? Answer: Jupiter.
+Question: What is 42 plus 18? Answer: 60.
+Question: Who composed the opera The Marriage of Figaro? Answer: Wolfgang Amadeus Mozart.
+Question: What is the capital of Ukraine? Answer: Kyiv.
+Question: What strait separates Spain and Morocco? Answer: The Strait of Gibraltar.
+Question: Who invented the cotton gin? Answer: Eli Whitney.
+Question: What is the chemical symbol for chlorine? Answer: Cl.
+Question: What is 24 times 3? Answer: 72.
+Question: Who painted The Gleaners? Answer: Jean-François Millet.
+Question: What is the capital of Romania? Answer: Bucharest.
+Question: What is the deepest point in the ocean? Answer: The Mariana Trench.
+Question: Who wrote Anna Karenina? Answer: Leo Tolstoy.
+Question: What is the fastest planet in our solar system? Answer: Mercury.
+Question: What is 56 divided by 7? Answer: 8.
+Question: Who composed the Raindrop Prelude? Answer: Frédéric Chopin.
+Question: What is the capital of Bulgaria? Answer: Sofia.
+Question: What river runs through Cairo? Answer: The Nile River.
+Question: Who was the first emperor of China? Answer: Qin Shi Huang.
+Question: What is the chemical formula for nitric acid? Answer: HNO3.
+Question: What is 27 times 4? Answer: 108.
+Question: Who painted Wanderer above the Sea of Fog? Answer: Caspar David Friedrich.
+Question: What is the capital of Serbia? Answer: Belgrade.
+Question: What is the largest lake in Africa? Answer: Lake Victoria.
+Question: Who wrote The Count of Monte Cristo? Answer: Alexandre Dumas.
+Question: What is the smallest particle of an element? Answer: An atom.
+Question: What is 39 plus 21? Answer: 60.
+Question: Who composed the Minute Waltz? Answer: Frédéric Chopin.
+Question: What is the capital of Croatia? Answer: Zagreb.
+Question: What mountain range runs through Morocco? Answer: The Atlas Mountains.
+Question: Who discovered DNA structure? Answer: James Watson and Francis Crick.
+Question: What is the chemical symbol for fluorine? Answer: F.
+Question: What is 16 times 7? Answer: 112.
+Question: Who painted The Desperate Man? Answer: Gustave Courbet.
+Question: What is the capital of Lithuania? Answer: Vilnius.
+Question: What is the largest freshwater lake by volume? Answer: Lake Baikal.
+Question: Who wrote The Three Musketeers? Answer: Alexandre Dumas.
+Question: What is the study of stars called? Answer: Astronomy.
+Question: What is the square root of 289? Answer: 17.
+Question: Who composed the opera Turandot? Answer: Giacomo Puccini.
+Question: What is the capital of Slovakia? Answer: Bratislava.
+Question: What river runs through Moscow? Answer: The Moskva River.
+Question: Who was the queen of England during World War II? Answer: Queen Elizabeth II (though King George VI was the monarch during most of WWII).
+Question: What is the chemical symbol for bromine? Answer: Br.
+Question: What is 31 times 3? Answer: 93.
+Question: Who painted Oath of the Horatii? Answer: Jacques-Louis David.
+Question: What is the capital of Slovenia? Answer: Ljubljana.
+Question: What is the highest waterfall in North America? Answer: Yosemite Falls.
+Question: Who wrote The Hunchback of Notre-Dame? Answer: Victor Hugo.
+Question: What is the largest object in the asteroid belt? Answer: Ceres.
+Question: What is 47 plus 13? Answer: 60.
+Question: Who composed the Fantaisie-Impromptu? Answer: Frédéric Chopin.
+Question: What is the capital of Latvia? Answer: Riga.
+Question: What sea is the lowest point on Earth's surface? Answer: The Dead Sea.
+Question: Who invented dynamite? Answer: Alfred Nobel.
+Question: What is the chemical formula for hydrogen peroxide? Answer: H2O2.
+Question: What is 21 times 5? Answer: 105.
+Question: Who painted The Swing? Answer: Jean-Honoré Fragonard.
+Question: What is the capital of Estonia? Answer: Tallinn.
+Question: What is the longest river in Russia? Answer: The Lena River.
+Question: Who wrote Candide? Answer: Voltaire.
+Question: What force keeps planets in orbit? Answer: Gravity.
+Question: What is 63 divided by 9? Answer: 7.
+Question: Who composed Hungarian Rhapsody No. 2? Answer: Franz Liszt.
+Question: What is the capital of Iceland? Answer: Reykjavik.
+Question: What ocean is the coldest? Answer: The Arctic Ocean.
+Question: Who was the first female prime minister of the United Kingdom? Answer: Margaret Thatcher.
+Question: What is the chemical symbol for iodine? Answer: I.
+Question: What is 25 times 6? Answer: 150.
+Question: Who painted The Death of Marat? Answer: Jacques-Louis David.
+Question: What is the capital of Luxembourg? Answer: Luxembourg City.
+Question: What is the largest salt flat in the world? Answer: Salar de Uyuni.
+Question: Who wrote Gulliver's Travels? Answer: Jonathan Swift.
+Question: What is the center of an atom called? Answer: The nucleus.
+Question: What is the square root of 324? Answer: 18.
+Question: Who composed the opera Der Rosenkavalier? Answer: Richard Strauss.
+Question: What is the capital of Malta? Answer: Valletta.
+Question: What river runs through Amsterdam? Answer: The Amstel River.
+Question: Who discovered the planet Uranus? Answer: William Herschel.
+Question: What is the chemical symbol for magnesium? Answer: Mg.
+Question: What is 34 plus 26? Answer: 60.
+Question: Who painted The Ambassadors? Answer: Hans Holbein the Younger.
+Question: What is the capital of Cyprus? Answer: Nicosia.
+Question: What is the largest hot desert? Answer: The Sahara Desert.
+Question: Who wrote Paradise Lost? Answer: John Milton.
+Question: What is the process by which plants make food? Answer: Photosynthesis.
+Question: What is 28 times 4? Answer: 112.
+Question: Who composed the Blue Danube Waltz? Answer: Johann Strauss II.
+Question: What is the capital of Monaco? Answer: Monaco (city-state).
+Question: What strait connects the Black Sea and the Sea of Marmara? Answer: The Bosporus Strait.
+Question: Who was the Macedonian king who conquered Persia? Answer: Alexander the Great.
+Question: What is the chemical formula for sodium bicarbonate? Answer: NaHCO3.
+Question: What is 49 divided by 7? Answer: 7.
+Question: Who painted Judith Slaying Holofernes? Answer: Artemisia Gentileschi.
+Question: What is the capital of Liechtenstein? Answer: Vaduz.
+Question: What is the longest cave system? Answer: Mammoth Cave.
+Question: Who wrote Beowulf? Answer: Unknown (anonymous).
+Question: What is the unit of electric current? Answer: Ampere.
+Question: What is 23 times 5? Answer: 115.
+Question: Who composed Tales from the Vienna Woods? Answer: Johann Strauss II.
+Question: What is the capital of Andorra? Answer: Andorra la Vella.
+Question: What river runs through Liverpool? Answer: The Mersey River.
+Question: Who invented the vaccine for polio? Answer: Jonas Salk.
+Question: What is the chemical symbol for arsenic? Answer: As.
+Question: What is 37 plus 23? Answer: 60.
+Question: Who painted The Arnolfini Marriage? Answer: Jan van Eyck.
+Question: What is the capital of San Marino? Answer: San Marino (city).
+Question: What is the largest atoll? Answer: The Great Chagos Bank.
+Question: Who wrote The Scarlet Letter? Answer: Nathaniel Hawthorne.
+Question: What is the unit of force? Answer: Newton.
+Question: What is the square root of 361? Answer: 19.
+Question: Who composed the Emperor Concerto? Answer: Ludwig van Beethoven.
+Question: What is the capital of Vatican City? Answer: Vatican City (city-state).
+Question: What sea is between Egypt and Saudi Arabia? Answer: The Red Sea.
+Question: Who was the first Holy Roman Emperor? Answer: Charlemagne (Charles the Great).
+Question: What is the chemical symbol for neon? Answer: Ne.
+Question: What is 32 times 3? Answer: 96.
+Question: Who painted The Night Café? Answer: Vincent van Gogh.
+Question: What is the capital of Bhutan? Answer: Thimphu.
+Question: What is the highest volcano? Answer: Ojos del Salado.
+Question: Who wrote The Tempest? Answer: William Shakespeare.
+Question: What is the speed of sound approximately? Answer: 343 meters per second.
+Question: What is 44 plus 16? Answer: 60.
+Question: Who composed the Trout Quintet? Answer: Franz Schubert.
+Question: What is the capital of Nepal? Answer: Kathmandu.
+Question: What river forms the Grand Canyon? Answer: The Colorado River.
+Question: Who discovered the structure of benzene? Answer: August Kekulé.
+Question: What is the chemical formula for phosphoric acid? Answer: H3PO4.
+Question: What is 26 times 4? Answer: 104.
+Question: Who painted The Luncheon on the Grass? Answer: Édouard Manet.
+Question: What is the capital of Sri Lanka? Answer: Colombo (commercial), Sri Jayawardenepura Kotte (administrative).
+Question: What is the largest freshwater lake by surface area? Answer: Lake Superior.
+Question: Who wrote A Midsummer Night's Dream? Answer: William Shakespeare.
+Question: What is the densest planet? Answer: Earth.
+Question: What is 54 divided by 6? Answer: 9.
+Question: Who composed the Moonlight Sonata? Answer: Ludwig van Beethoven.
+Question: What is the capital of Myanmar? Answer: Naypyidaw.
+Question: What mountain range runs through Italy? Answer: The Apennines.
+Question: Who was the first woman to win a Nobel Prize? Answer: Marie Curie.
+Question: What is the chemical symbol for krypton? Answer: Kr.
+Question: What is 35 times 3? Answer: 105.
+Question: Who painted Olympia? Answer: Édouard Manet.
+Question: What is the capital of Afghanistan? Answer: Kabul.
+Question: What is the largest river by discharge volume? Answer: The Amazon River.
+Question: Who wrote King Lear? Answer: William Shakespeare.
+Question: What is the charge of a proton? Answer: Positive.
+Question: What is the square root of 400? Answer: 20.
+Question: Who composed the Spring Sonata? Answer: Ludwig van Beethoven.
+Question: What is the capital of Cambodia? Answer: Phnom Penh.
+Question: What strait separates Australia and Papua New Guinea? Answer: The Torres Strait.
+Question: Who invented the telescope? Answer: Hans Lippershey (though Galileo improved it).
+Question: What is the chemical symbol for xenon? Answer: Xe.
+Question: What is 29 times 4? Answer: 116.
+Question: Who painted Bal du moulin de la Galette? Answer: Pierre-Auguste Renoir.
+Question: What is the capital of Laos? Answer: Vientiane.
+Question: What is the longest beach? Answer: Praia do Cassino in Brazil.
+Question: Who wrote Othello? Answer: William Shakespeare.
+Question: What is the charge of an electron? Answer: Negative.
+Question: What is 51 plus 9? Answer: 60.
+Question: Who composed the Pastoral Symphony? Answer: Ludwig van Beethoven.
+Question: What is the capital of Mongolia? Answer: Ulaanbaatar.
+Question: What river runs through Delhi? Answer: The Yamuna River.
+Question: Who was the founder of psychoanalysis? Answer: Sigmund Freud.
+Question: What is the chemical formula for calcium carbonate? Answer: CaCO3.
+Question: What is 36 divided by 4? Answer: 9.
+Question: Who painted A Sunday Afternoon on the Island of La Grande Jatte? Answer: Georges Seurat.
+Question: What is the capital of Jordan? Answer: Amman.
+Question: What is the coldest recorded temperature on Earth? Answer: Approximately -89.2 degrees Celsius at Vostok Station, Antarctica.
+Question: Who wrote The Merchant of Venice? Answer: William Shakespeare.
+Question: What is the most abundant metal in Earth's crust? Answer: Aluminum.
+Question: What is 24 times 5? Answer: 120.
+Question: Who composed the New World Symphony? Answer: Antonín Dvořák.
+Question: What is the capital of Lebanon? Answer: Beirut.
+Question: What sea is between India and Sri Lanka? Answer: The Laccadive Sea (part of the Indian Ocean).
+Question: Who discovered the circulation of blood in the human body? Answer: William Harvey.
+Question: What is the chemical symbol for radon? Answer: Rn.
+Question: What is 43 plus 17? Answer: 60.
+Question: Who painted The Bathers? Answer: Paul Cézanne.
+Question: What is the capital of Syria? Answer: Damascus.
+Question: What is the largest brackish water body? Answer: The Baltic Sea.
+Question: Who wrote As You Like It? Answer: William Shakespeare.
+Question: What is the unit of electrical resistance? Answer: Ohm.
+Question: What is the square root of 441? Answer: 21.
+Question: Who composed the Water Music? Answer: George Frideric Handel.
+Question: What is the capital of Yemen? Answer: Sana'a.
+Question: What mountain is the highest in South America? Answer: Aconcagua.
+Question: Who invented the World Wide Web? Answer: Tim Berners-Lee.
+Question: What is the chemical symbol for argon? Answer: Ar.
+Question: What is 38 times 3? Answer: 114.
+Question: Who painted The Card Players? Answer: Paul Cézanne.
+Question: What is the capital of Oman? Answer: Muscat.
+Question: What is the largest archipelago? Answer: Indonesia.
+Question: Who wrote The Taming of the Shrew? Answer: William Shakespeare.
+Question: What is the charge of a neutron? Answer: Neutral (no charge).
+Question: What is 52 plus 8? Answer: 60.
+Question: Who composed the Unfinished Symphony? Answer: Franz Schubert.
+Question: What is the capital of Qatar? Answer: Doha.
+Question: What river runs through Cologne? Answer: The Rhine River.
+Question: Who was the founder of the Mongol Empire? Answer: Genghis Khan.
+Question: What is the chemical formula for acetic acid? Answer: CH3COOH or C2H4O2.
+Question: What is 45 divided by 5? Answer: 9.
+Question: Who painted The Dance Class? Answer: Edgar Degas.
+Question: What is the capital of Kuwait? Answer: Kuwait City.
+Question: What is the highest tides in the world location? Answer: Bay of Fundy.
+Question: Who wrote Twelfth Night? Answer: William Shakespeare.
+Question: What is the unit of energy? Answer: Joule.
+Question: What is 27 times 5? Answer: 135.
+Question: Who composed the Surprise Symphony? Answer: Joseph Haydn.
+Question: What is the capital of Bahrain? Answer: Manama.
+Question: What strait separates Sicily and mainland Italy? Answer: The Strait of Messina.
+Question: Who discovered the planet Neptune? Answer: Johann Galle (predicted by Urbain Le Verrier and John Couch Adams).
+Question: What is the chemical symbol for titanium? Answer: Ti.
+Question: What is 46 plus 14? Answer: 60.
+Question: Who painted The Absinthe Drinker? Answer: Edgar Degas.
+Question: What is the capital of United Arab Emirates? Answer: Abu Dhabi.
+Question: What is the longest mountain range on Earth? Answer: The Mid-Ocean Ridge.
+Question: Who wrote Much Ado About Nothing? Answer: William Shakespeare.
+Question: What is the process of changing from liquid to gas? Answer: Evaporation or vaporization.
+Question: What is the square root of 484? Answer: 22.
+Question: Who composed the Enigma Variations? Answer: Edward Elgar.
+Question: What is the capital of Azerbaijan? Answer: Baku.
+Question: What sea is between Iran and Arabia? Answer: The Persian Gulf (Arabian Gulf).
+Question: Who was the last tsar of Russia? Answer: Nicholas II.
+Question: What is the chemical symbol for manganese? Answer: Mn.
+Question: What is 33 times 4? Answer: 132.
+Question: Who painted The Gleaners? Answer: Jean-François Millet.
+Question: What is the capital of Armenia? Answer: Yerevan.
+Question: What is the largest lake in South America? Answer: Lake Titicaca.
+Question: Who wrote All's Well That Ends Well? Answer: William Shakespeare.
+Question: What is the unit of power? Answer: Watt.
+Question: What is 53 plus 7? Answer: 60.
+Question: Who composed the Planets Suite? Answer: Gustav Holst.
+Question: What is the capital of Georgia? Answer: Tbilisi.
+Question: What river runs through Lisbon? Answer: The Tagus River.
+Question: Who invented the microscope? Answer: Zacharias Janssen (though Robert Hooke made it famous).
+Question: What is the chemical formula for sodium hydroxide? Answer: NaOH.
+Question: What is 42 divided by 6? Answer: 7.
+Question: Who painted The Boating Party? Answer: Mary Cassatt.
+Question: What is the capital of Kazakhstan? Answer: Nur-Sultan (formerly Astana).
+Question: What is the largest canyon? Answer: The Grand Canyon (by volume).
+Question: Who wrote The Winter's Tale? Answer: William Shakespeare.
+Question: What is the most electronegative element? Answer: Fluorine.
+Question: What is 29 times 5? Answer: 145.
+Question: Who composed the Symphonie Fantastique? Answer: Hector Berlioz.
+Question: What is the capital of Uzbekistan? Answer: Tashkent.
+Question: What mountain range runs through Pakistan? Answer: The Himalayas and Karakoram.
+Question: Who was the first woman in space? Answer: Valentina Tereshkova.
+Question: What is the chemical symbol for cobalt? Answer: Co.
+Question: What is 48 plus 12? Answer: 60.
+Question: Who painted The Birth of Venus? Answer: Sandro Botticelli.
+Question: What is the capital of Turkmenistan? Answer: Ashgabat.
+Question: What is the deepest lake in the United States? Answer: Crater Lake.
+Question: Who wrote Pericles? Answer: William Shakespeare.
+Question: What is the unit of frequency? Answer: Hertz.
+Question: What is the square root of 529? Answer: 23.
+Question: Who composed Finlandia? Answer: Jean Sibelius.
+Question: What is the capital of Kyrgyzstan? Answer: Bishkek.
+Question: What strait separates Denmark and Sweden? Answer: The Øresund Strait.
+Question: Who discovered oxygen? Answer: Joseph Priestley and Carl Wilhelm Scheele.
+Question: What is the chemical symbol for nickel? Answer: Ni.
+Question: What is 41 times 3? Answer: 123.
+Question: Who painted The Music Lesson? Answer: Johannes Vermeer.
+Question: What is the capital of Tajikistan? Answer: Dushanbe.
+Question: What is the largest geyser field? Answer: Yellowstone.
+Question: Who wrote Cymbeline? Answer: William Shakespeare.
+Question: What is the process of changing from gas to liquid? Answer: Condensation.
+Question: What is 54 plus 6? Answer: 60.
+Question: Who composed the opera Salome? Answer: Richard Strauss.
+Question: What is the capital of Belarus? Answer: Minsk.
+Question: What river runs through Berlin? Answer: The Spree River.
+Question: Who was the first aviator to fly solo across the Atlantic? Answer: Charles Lindbergh.
+Question: What is the chemical formula for potassium permanganate? Answer: KMnO4.
+Question: What is 35 divided by 5? Answer: 7.
+Question: Who painted The Lacemaker? Answer: Johannes Vermeer.
+Question: What is the capital of Moldova? Answer: Chișinău.
+Question: What is the largest plateau? Answer: The Tibetan Plateau.
+Question: Who wrote The Two Gentlemen of Verona? Answer: William Shakespeare.
+Question: What is the lightest element? Answer: Hydrogen.
+Question: What is 31 times 4? Answer: 124.
+Question: Who composed Boléro? Answer: Maurice Ravel.
+Question: What is the capital of Albania? Answer: Tirana.
+Question: What sea is north of Turkey? Answer: The Black Sea.
+Question: Who discovered the electron microscope principle? Answer: Ernst Ruska.
+Question: What is the chemical symbol for chromium? Answer: Cr.
+Question: What is 49 plus 11? Answer: 60.
+Question: Who painted The Milkmaid? Answer: Johannes Vermeer.
+Question: What is the capital of North Macedonia? Answer: Skopje.
+Question: What is the longest fjord? Answer: Scoresby Sund in Greenland.
+Question: Who wrote Timon of Athens? Answer: William Shakespeare.
+Question: What is the unit of electric charge? Answer: Coulomb.
+Question: What is the square root of 576? Answer: 24.
+Question: Who composed the opera Elektra? Answer: Richard Strauss.
+Question: What is the capital of Bosnia and Herzegovina? Answer: Sarajevo.
+Question: What mountain is sacred to Greeks? Answer: Mount Olympus.
+Question: Who invented the barometer? Answer: Evangelista Torricelli.
+Question: What is the chemical symbol for vanadium? Answer: V.
+Question: What is 37 times 4? Answer: 148.
+Question: Who painted The Astronomer? Answer: Johannes Vermeer.
+Question: What is the capital of Montenegro? Answer: Podgorica.
+Question: What is the largest river island? Answer: Majuli Island in India.
+Question: Who wrote Titus Andronicus? Answer: William Shakespeare.
+Question: What is the process of splitting an atom? Answer: Nuclear fission.
+Question: What is 55 plus 5? Answer: 60.
+Question: Who composed Daphnis et Chloé? Answer: Maurice Ravel.
+Question: What is the capital of Kosovo? Answer: Pristina.
+Question: What river runs through Dublin? Answer: The Liffey River.
+Question: Who was the father of modern chemistry? Answer: Antoine Lavoisier.
+Question: What is the chemical formula for calcium hydroxide? Answer: Ca(OH)2.
+Question: What is 48 divided by 8? Answer: 6.
+Question: Who painted The Geographer? Answer: Johannes Vermeer.
+Question: What is the capital of Tunisia? Answer: Tunis.
+Question: What is the highest waterfall in Asia? Answer: Kunchikal Falls in India.
+Question: Who wrote The Two Noble Kinsmen? Answer: William Shakespeare and John Fletcher.
+Question: What is the heaviest naturally occurring element? Answer: Uranium.
+Question: What is 34 times 4? Answer: 136.
+Question: Who composed the opera Wozzeck? Answer: Alban Berg.
+Question: What is the capital of Libya? Answer: Tripoli.
+Question: What strait separates New Zealand's North and South Islands? Answer: The Cook Strait.
+Question: Who discovered the structure of the atom? Answer: Ernest Rutherford.
+Question: What is the chemical symbol for tungsten? Answer: W.
+Question: What is 56 plus 4? Answer: 60.
+Question: Who painted View of Delft? Answer: Johannes Vermeer.
+Question: What is the capital of Ethiopia? Answer: Addis Ababa.
+Question: What is the largest stalagmite? Answer: In Cueva San Martin Infierno, Cuba.
+Question: Who wrote Henry IV Part 1? Answer: William Shakespeare.
+Question: What is the unit of pressure? Answer: Pascal.
+Question: What is the square root of 625? Answer: 25.
+Question: Who composed the opera Lulu? Answer: Alban Berg.
+Question: What is the capital of Somalia? Answer: Mogadishu.
+Question: What sea is between Saudi Arabia and Africa? Answer: The Red Sea.
+Question: Who was the first person to reach the South Pole? Answer: Roald Amundsen.
+Question: What is the chemical symbol for molybdenum? Answer: Mo.
+Question: What is 43 times 3? Answer: 129.
+Question: Who painted The Art of Painting? Answer: Johannes Vermeer.
+Question: What is the capital of Sudan? Answer: Khartoum.
+Question: What is the driest place on Earth? Answer: The Atacama Desert.
+Question: Who wrote Henry IV Part 2? Answer: William Shakespeare.
+Question: What is the process of joining atoms? Answer: Nuclear fusion.
+Question: What is 57 plus 3? Answer: 60.
+Question: Who composed Prélude à l'après-midi d'un faune? Answer: Claude Debussy.
+Question: What is the capital of Tanzania? Answer: Dodoma (legislative), Dar es Salaam (former capital/commercial).
+Question: What river runs through Warsaw? Answer: The Vistula River.
+Question: Who invented the bifocal lens? Answer: Benjamin Franklin.
+Question: What is the chemical formula for sodium chloride? Answer: NaCl.
+Question: What is 36 times 4? Answer: 144.
+Question: Who painted Lady Writing a Letter? Answer: Johannes Vermeer.
+Question: What is the capital of Uganda? Answer: Kampala.
+Question: What is the largest mangrove forest? Answer: The Sundarbans.
+Question: Who wrote Henry V? Answer: William Shakespeare.
+Question: What is the smallest unit of life? Answer: The cell.
+Question: What is the square root of 676? Answer: 26.
+Question: Who composed La Mer? Answer: Claude Debussy.
+Question: What is the capital of Rwanda? Answer: Kigali.
+Question: What mountain range runs through Algeria? Answer: The Atlas Mountains.
+Question: Who discovered X-rays? Answer: Wilhelm Röntgen.
+Question: What is the chemical symbol for uranium? Answer: U.
+Question: What is 58 plus 2? Answer: 60.
+Question: Who painted Woman in Blue Reading a Letter? Answer: Johannes Vermeer.
+Question: What is the capital of Burundi? Answer: Gitega (political), Bujumbura (economic).
+Question: What is the longest glacier? Answer: The Lambert Glacier in Antarctica.
+Question: Who wrote Henry VI Part 1? Answer: William Shakespeare.
+Question: What is the speed at which light travels? Answer: Approximately 300,000 kilometers per second.
+Question: What is 39 times 4? Answer: 156.
+Question: Who composed Nocturnes? Answer: Claude Debussy.
+Question: What is the capital of Eritrea? Answer: Asmara.
+Question: What strait separates Africa and Asia? Answer: The Bab el-Mandeb Strait.
+Question: Who was the inventor of dynamite who established the Nobel Prize? Answer: Alfred Nobel.
+Question: What is the chemical symbol for platinum? Answer: Pt.
+Question: What is 59 plus 1? Answer: 60.
+Question: Who painted The Little Street? Answer: Johannes Vermeer.
+Question: What is the capital of Djibouti? Answer: Djibouti City.
+Question: What is the largest atoll by land area? Answer: Christmas Island (Kiritimati).
+Question: Who wrote Henry VI Part 2? Answer: William Shakespeare.
+Question: What is the term for animals that eat only plants? Answer: Herbivores.
+Question: What is the square root of 729? Answer: 27.
+Question: Who composed the opera Pelléas et Mélisande? Answer: Claude Debussy.
+Question: What is the capital of Zimbabwe? Answer: Harare.
+Question: What river runs through Khartoum? Answer: The Nile River (Blue and White Nile meet there).
+Question: Who was the first person to circumnavigate the globe? Answer: Ferdinand Magellan's expedition (completed by Juan Sebastián Elcano).
+Question: What is the chemical symbol for palladium? Answer: Pd.
+Question: What is 47 times 3? Answer: 141.
+Question: Who painted Officer and Laughing Girl? Answer: Johannes Vermeer.
+Question: What is the capital of Zambia? Answer: Lusaka.
+Question: What is the wettest place on Earth? Answer: Mawsynram, India.
+Question: Who wrote Henry VI Part 3? Answer: William Shakespeare.
+Question: What is the term for animals that eat only meat? Answer: Carnivores.
+Question: What is 60 divided by 12? Answer: 5.
+Question: Who composed Images? Answer: Claude Debussy.
+Question: What is the capital of Malawi? Answer: Lilongwe.
+Question: What sea is west of Greece? Answer: The Ionian Sea.
+Question: Who discovered radioactive decay? Answer: Henri Becquerel.
+Question: What is the chemical formula for sodium carbonate? Answer: Na2CO3.
+Question: What is 41 times 4? Answer: 164.
+Question: Who painted A Lady Writing? Answer: Johannes Vermeer.
+Question: What is the capital of Mozambique? Answer: Maputo.
+Question: What is the largest ice shelf? Answer: The Ross Ice Shelf.
+Question: Who wrote Henry VIII? Answer: William Shakespeare and John Fletcher.
+Question: What is the term for animals that eat both plants and meat? Answer: Omnivores.
+Question: What is the square root of 784? Answer: 28.
+Question: Who composed the opera Peter Grimes? Answer: Benjamin Britten.
+Question: What is the capital of Botswana? Answer: Gaborone.
+Question: What mountain is the highest in Antarctica? Answer: Mount Vinson.
+Question: Who invented the phonograph? Answer: Thomas Edison.
+Question: What is the chemical symbol for rhodium? Answer: Rh.
+Question: What is 60 minus 18? Answer: 42.
+Question: Who painted The Procuress? Answer: Johannes Vermeer.
+Question: What is the capital of Namibia? Answer: Windhoek.
+Question: What is the largest tundra region? Answer: The Arctic tundra.
+Question: Who wrote Richard II? Answer: William Shakespeare.
+Question: What is the powerhouse of the cell? Answer: The mitochondria.
+Question: What is 43 times 4? Answer: 172.
+Question: Who composed the War Requiem? Answer: Benjamin Britten.
+Question: What is the capital of Madagascar? Answer: Antananarivo.
+Question: What strait separates Madagascar and Africa? Answer: The Mozambique Channel.
+Question: Who discovered the positron? Answer: Carl Anderson.
+Question: What is the chemical symbol for osmium? Answer: Os.
+Question: What is 60 minus 15? Answer: 45.
+Question: Who painted Diana and Her Companions? Answer: Johannes Vermeer.
+Question: What is the capital of Lesotho? Answer: Maseru.
+Question: What is the highest sand dune? Answer: Duna Federico Kirbus in Argentina.
+Question: Who wrote Richard III? Answer: William Shakespeare.
+Question: What is the basic unit of heredity? Answer: The gene.
+Question: What is the square root of 841? Answer: 29.
+Question: Who composed A Ceremony of Carols? Answer: Benjamin Britten.
+Question: What is the capital of Eswatini? Answer: Mbabane (administrative), Lobamba (royal and legislative).
+Question: What sea is between Japan and Korea? Answer: The Sea of Japan (East Sea).
+Question: Who was the first woman to win two Nobel Prizes? Answer: Marie Curie.
+Question: What is the chemical symbol for iridium? Answer: Ir.
+Question: What is 60 minus 12? Answer: 48.
+Question: Who painted Christ in the House of Martha and Mary? Answer: Johannes Vermeer.
+Question: What is the capital of Mauritius? Answer: Port Louis.
+Question: What is the largest subtropical desert? Answer: The Sahara Desert.
+Question: Who wrote Romeo and Juliet? Answer: William Shakespeare.
+Question: What is the largest organ in the human body? Answer: The skin.
+Question: What is 46 times 4? Answer: 184.
+Question: Who composed Serenade for Tenor, Horn and Strings? Answer: Benjamin Britten.
+Question: What is the capital of Seychelles? Answer: Victoria.
+Question: What river runs through Santiago? Answer: The Mapocho River.
+Question: Who invented the vaccine for smallpox? Answer: Edward Jenner.
+Question: What is the chemical formula for magnesium sulfate? Answer: MgSO4.
+Question: What is 60 minus 9? Answer: 51.
+Question: Who painted Saint Praxedis? Answer: Johannes Vermeer.
+Question: What is the capital of Comoros? Answer: Moroni.
+Question: What is the largest temperate rainforest? Answer: The Pacific temperate rainforests of North America.
+Question: Who wrote The Comedy of Errors? Answer: William Shakespeare.
+Question: What is the term for the study of living organisms? Answer: Biology.
+Question: What is the square root of 900? Answer: 30.
+Question: Who composed the Young Person's Guide to the Orchestra? Answer: Benjamin Britten.
+Question: What is the capital of Cape Verde? Answer: Praia.
+Question: What mountain range runs through Tunisia? Answer: The Atlas Mountains.
+Question: Who discovered the neutron? Answer: James Chadwick.
+Question: What is the chemical symbol for ruthenium? Answer: Ru.
+Question: What is 60 minus 6? Answer: 54.
+Question: Who painted A Young Woman Seated at a Virginal? Answer: Johannes Vermeer.
+Question: What is the capital of São Tomé and Príncipe? Answer: São Tomé.
+Question: What is the largest temperate grassland? Answer: The Eurasian Steppe.
+Question: Who wrote Love's Labour's Lost? Answer: William Shakespeare.
+Question: What is the term for the study of matter and energy? Answer: Physics.
+Question: What is 49 times 4? Answer: 196.
+Question: Who composed the Simple Symphony? Answer: Benjamin Britten.
+Question: What is the capital of Gambia? Answer: Banjul.
+Question: What strait separates Taiwan and China? Answer: The Taiwan Strait.
+Question: Who was the first person to split the atom? Answer: Ernest Rutherford.
+Question: What is the chemical symbol for rhenium? Answer: Re.
+Question: What is 60 minus 3? Answer: 57.
+Question: Who painted Girl Reading a Letter at an Open Window? Answer: Johannes Vermeer.
+Question: What is the capital of Senegal? Answer: Dakar.
+Question: What is the largest tropical rainforest? Answer: The Amazon Rainforest.
+Question: Who wrote Measure for Measure? Answer: William Shakespeare.
+Question: What is the term for the study of chemicals? Answer: Chemistry.
+Question: What is the square root of 961? Answer: 31.
+Question: Who composed Albert Herring? Answer: Benjamin Britten.
+Question: What is the capital of Guinea? Answer: Conakry.
+Question: What sea is between China and the Philippines? Answer: The South China Sea.
+Question: Who discovered cosmic rays? Answer: Victor Hess.
+Question: What is the chemical symbol for polonium? Answer: Po.
+Question: What is 60 divided by 1? Answer: 60.
+Question: Who painted The Concert? Answer: Johannes Vermeer (stolen, whereabouts unknown).
+Question: What is the capital of Guinea-Bissau? Answer: Bissau.
+Question: What is the largest boreal forest? Answer: The Taiga.
+Question: Who wrote The Merry Wives of Windsor? Answer: William Shakespeare.
+Question: What is the term for the study of the Earth? Answer: Geology.
+Question: What is 52 times 4? Answer: 208.
+Question: Who composed The Turn of the Screw? Answer: Benjamin Britten.
+Question: What is the capital of Sierra Leone? Answer: Freetown.
+Question: What river runs through Baghdad and Basra? Answer: The Tigris River (though the Euphrates also runs through Iraq).
+Question: Who was the ancient Greek mathematician who developed geometry? Answer: Euclid.
+Question: What is the chemical symbol for radium? Answer: Ra.
+Question: What is 60 plus 0? Answer: 60.
+Question: Who painted Young Woman with a Water Pitcher? Answer: Johannes Vermeer.
+Question: What is the capital of Liberia? Answer: Monrovia.
+Question: What is the second largest rainforest? Answer: The Congo Rainforest.
+Question: Who wrote A Winter's Tale? Answer: William Shakespeare.
+Question: What is the study of weather called? Answer: Meteorology.
+Question: What is the square root of 1024? Answer: 32.
+Question: Who composed Death in Venice? Answer: Benjamin Britten.
+Question: What is the capital of Ivory Coast? Answer: Yamoussoukro (political), Abidjan (economic).
+Question: What mountain is the highest in Europe? Answer: Mount Elbrus.
+Question: Who invented the telegraph? Answer: Samuel Morse.
+Question: What is the chemical symbol for thorium? Answer: Th.
+Question: What is 100 times 1? Answer: 100.
+Question: Who painted Study of a Young Woman? Answer: Johannes Vermeer.
+Question: What is the capital of Burkina Faso? Answer: Ouagadougou.
+Question: What is the largest subtropical rainforest? Answer: The Atlantic Forest in Brazil.
+Question: Who wrote Coriolanus? Answer: William Shakespeare.
+Question: What is the study of stars and space called? Answer: Astronomy.
+Question: What is 55 times 4? Answer: 220.
+Question: Who composed Billy Budd? Answer: Benjamin Britten.
+Question: What is the capital of Ghana? Answer: Accra.
+Question: What strait separates Russia and Alaska? Answer: The Bering Strait.
+Question: Who discovered the law of electromagnetic induction? Answer: Michael Faraday.
+Question: What is the chemical symbol for actinium? Answer: Ac.
+Question: What is 60 times 2? Answer: 120.
+Question: Who painted Paris, the capital of France? Answer: This is a trick question - Paris is a city, not a painting.
+Question: What is the capital of Togo? Answer: Lomé.
+Question: What is the largest mangrove swamp? Answer: The Sundarbans.
+Question: Who wrote The Tempest? Answer: William Shakespeare.
+Question: What is the longest bone in the human body? Answer: The femur.
+Question: What is the square root of 1089? Answer: 33.
+Question: Who composed Gloriana? Answer: Benjamin Britten.
+Question: What is the capital of Benin? Answer: Porto-Novo (official), Cotonou (de facto).
+Question: What sea is north of Russia? Answer: The Arctic Ocean (Barents Sea, Kara Sea, etc.).
+Question: Who was the Polish astronomer who proposed heliocentrism? Answer: Nicolaus Copernicus.
+Question: What is the chemical symbol for protactinium? Answer: Pa.
+Question: What is 58 times 4? Answer: 232.
+Question: Who painted The Mona Lisa? Answer: Leonardo da Vinci.
+Question: What is the capital of Niger? Answer: Niamey.
+Question: What is the largest cold desert? Answer: Antarctica.
+Question: Who wrote Antony and Cleopatra? Answer: William Shakespeare.
+Question: What is the smallest bone in the human body? Answer: The stapes (in the ear).
+Question: What is 60 times 3? Answer: 180.
+Question: Who composed A Midsummer Night's Dream? Answer: Benjamin Britten (opera version).
+Question: What is the capital of Chad? Answer: N'Djamena.
+Question: What river runs through N'Djamena? Answer: The Chari River.
+Question: Who discovered the law of conservation of mass? Answer: Antoine Lavoisier.
+Question: What is the chemical symbol for neptunium? Answer: Np.
+Question: What is 61 times 4? Answer: 244.
+Question: Who painted The Last Supper? Answer: Leonardo da Vinci.
+Question: What is the capital of Central African Republic? Answer: Bangui.
+Question: What is the largest temperate deciduous forest? Answer: The Eastern Deciduous Forest of North America.
+Question: Who wrote Julius Caesar? Answer: William Shakespeare.
+Question: What is the hardest natural substance? Answer: Diamond.
+Question: What is the square root of 1156? Answer: 34.
+Question: Who composed Curlew River? Answer: Benjamin Britten.
+Question: What is the capital of Cameroon? Answer: Yaoundé.
+Question: What mountain is the highest in Africa? Answer: Mount Kilimanjaro.
+Question: Who invented the automobile? Answer: Karl Benz (though many contributed).
+Question: What is the chemical symbol for plutonium? Answer: Pu.
+Question: What is 60 times 4? Answer: 240.
+Question: Who painted Vitruvian Man? Answer: Leonardo da Vinci.
+Question: What is the capital of Equatorial Guinea? Answer: Malabo.
+Question: What is the largest kelp forest? Answer: The California kelp forests.
+Question: Who wrote Troilus and Cressida? Answer: William Shakespeare.
+Question: What is the largest muscle in the human body? Answer: The gluteus maximus.
+Question: What is 64 times 4? Answer: 256.
+Question: Who composed The Burning Fiery Furnace? Answer: Benjamin Britten.
+Question: What is the capital of Gabon? Answer: Libreville.
+Question: What strait separates Iran and Oman? Answer: The Strait of Hormuz.
+Question: Who was the German physicist who developed quantum theory? Answer: Max Planck.
+Question: What is the chemical symbol for americium? Answer: Am.
+Question: What is 60 times 5? Answer: 300.
+Question: Who painted Lady with an Ermine? Answer: Leonardo da Vinci.
+Question: What is the capital of Republic of the Congo? Answer: Brazzaville.
+Question: What is the largest seagrass meadow? Answer: The Bahamas seagrass.
+Question: Who wrote All's Well That Ends Well? Answer: William Shakespeare.
+Question: What is the term for the measure of disorder in a system? Answer: Entropy.
+Question: What is the square root of 1225? Answer: 35.
+Question: Who composed The Prodigal Son? Answer: Benjamin Britten.
+Question: What is the capital of Democratic Republic of the Congo? Answer: Kinshasa.
+Question: What sea is between Greece and Italy? Answer: The Ionian Sea.
+Question: Who discovered electromagnetic waves? Answer: Heinrich Hertz.
+Question: What is the chemical symbol for curium? Answer: Cm.
+Question: What is 67 times 4? Answer: 268.
+Question: Who painted The Baptism of Christ? Answer: Leonardo da Vinci (with Verrocchio).
+Question: What is the capital of Angola? Answer: Luanda.
+Question: What is the largest swamp? Answer: The Pantanal in South America.
+Question: Who wrote The Taming of the Shrew? Answer: William Shakespeare.
+Question: What is the term for water in its solid state? Answer: Ice.
+Question: What is 60 times 6? Answer: 360.
+Question: Who composed Owen Wingrave? Answer: Benjamin Britten.
+Question: What is the capital of Namibia? Answer: Windhoek.
+Question: What mountain range runs through Peru? Answer: The Andes Mountains.
+Question: Who was the British naturalist who proposed evolution? Answer: Charles Darwin.
+Question: What is the chemical symbol for berkelium? Answer: Bk.
+Question: What is 70 times 4? Answer: 280.
+Question: Who painted Annunciation? Answer: Leonardo da Vinci.
+Question: What is the capital of South Sudan? Answer: Juba.
+Question: What is the largest river delta? Answer: The Ganges-Brahmaputra Delta.
+Question: Who wrote Pericles, Prince of Tyre? Answer: William Shakespeare.
+Question: What is the term for the study of life in the ocean? Answer: Marine biology.
+Question: What is the square root of 1296? Answer: 36.
+Question: Who composed Paul Bunyan? Answer: Benjamin Britten.
+Question: What is the capital of Papua New Guinea? Answer: Port Moresby.
+Question: What strait separates Java and Sumatra? Answer: The Sunda Strait.
+Question: Who discovered the structure of DNA? Answer: James Watson and Francis Crick (with Rosalind Franklin's data).
+Question: What is the chemical symbol for californium? Answer: Cf.
+Question: What is 60 times 7? Answer: 420.
+Question: Who painted The Adoration of the Magi? Answer: Leonardo da Vinci.
+Question: What is the capital of Fiji? Answer: Suva.
+Question: What is the largest river by volume in Asia? Answer: The Yangtze River.
+Question: Who wrote Venus and Adonis? Answer: William Shakespeare.
+Question: What is the term for animals without backbones? Answer: Invertebrates.
+Question: What is 73 times 4? Answer: 292.
+Question: Who composed Les Illuminations? Answer: Benjamin Britten.
+Question: What is the capital of Solomon Islands? Answer: Honiara.
+Question: What sea is between Australia and New Zealand? Answer: The Tasman Sea.
+Question: Who was the Austrian monk who founded genetics? Answer: Gregor Mendel.
+Question: What is the chemical symbol for einsteinium? Answer: Es.
+Question: What is 60 times 8? Answer: 480.
+Question: Who painted Saint Jerome in the Wilderness? Answer: Leonardo da Vinci.
+Question: What is the capital of Vanuatu? Answer: Port Vila.
+Question: What is the highest active volcano? Answer: Ojos del Salado.
+Question: Who wrote The Rape of Lucrece? Answer: William Shakespeare.
+Question: What is the term for animals with backbones? Answer: Vertebrates.
+Question: What is the square root of 1369? Answer: 37.
+Question: Who composed Spring Symphony? Answer: Benjamin Britten.
+Question: What is the capital of Samoa? Answer: Apia.
+Question: What mountain range runs through New Zealand? Answer: The Southern Alps.
+Question: Who discovered the principle of buoyancy? Answer: Archimedes.
+Question: What is the chemical symbol for fermium? Answer: Fm.
+Question: What is 76 times 4? Answer: 304.
+Question: Who painted The Benois Madonna? Answer: Leonardo da Vinci.
+Question: What is the capital of Tonga? Answer: Nuku'alofa.
+Question: What is the largest lake in Oceania? Answer: Lake Eyre.
+Question: Who wrote the Sonnets? Answer: William Shakespeare.
+Question: What is the term for warm-blooded animals? Answer: Endotherms or homeotherms.
+Question: What is 60 times 9? Answer: 540.
+Question: Who composed Canticles? Answer: Benjamin Britten.
+Question: What is the capital of Kiribati? Answer: Tarawa.
+Question: What strait separates Papua New Guinea and Australia? Answer: The Torres Strait.
+Question: Who invented calculus? Answer: Isaac Newton and Gottfried Leibniz (independently).
+Question: What is the chemical symbol for mendelevium? Answer: Md.
+Question: What is 79 times 4? Answer: 316.
+Question: Who painted Madonna of the Carnation? Answer: Leonardo da Vinci.
+Question: What is the capital of Tuvalu? Answer: Funafuti.
+Question: What is the smallest country in Oceania? Answer: Nauru.
+Question: Who wrote A Lover's Complaint? Answer: William Shakespeare.
+Question: What is the term for cold-blooded animals? Answer: Ectotherms or poikilotherms.
+Question: What is the square root of 1444? Answer: 38.
+Question: Who composed Folk Song Arrangements? Answer: Benjamin Britten.
+Question: What is the capital of Nauru? Answer: Yaren (de facto, no official capital).
+Question: What sea is between Vanuatu and Australia? Answer: The Coral Sea.
+Question: Who was the mathematician who proved Fermat's Last Theorem? Answer: Andrew Wiles.
+Question: What is the chemical symbol for nobelium? Answer: No.
+Question: What is 60 times 10? Answer: 600.
+Question: Who painted Ginevra de' Benci? Answer: Leonardo da Vinci.
+Question: What is the capital of Palau? Answer: Ngerulmud.
+Question: What is the largest atoll in the Pacific? Answer: Kwajalein Atoll.
+Question: Who wrote The Phoenix and the Turtle? Answer: William Shakespeare.
+Question: What is the term for the study of fungi? Answer: Mycology.
+Question: What is 82 times 4? Answer: 328.
+Question: Who composed Sinfonia da Requiem? Answer: Benjamin Britten.
+Question: What is the capital of Marshall Islands? Answer: Majuro.
+Question: What mountain is the highest in Oceania? Answer: Puncak Jaya.
+Question: Who discovered the photoelectric effect explanation? Answer: Albert Einstein.
+Question: What is the chemical symbol for lawrencium? Answer: Lr.
+Question: What is 85 times 4? Answer: 340.
+Question: Who painted Portrait of a Musician? Answer: Leonardo da Vinci (attributed).
+Question: What is the capital of Micronesia? Answer: Palikir.
+Question: What is the deepest trench? Answer: The Mariana Trench.
+Question: Who wrote Edward III? Answer: William Shakespeare (partial attribution).
+Question: What is the term for the study of insects? Answer: Entomology.
+Question: What is the square root of 1521? Answer: 39.
+Question: Who composed Variations on a Theme of Frank Bridge? Answer: Benjamin Britten.
+Question: What is the capital of France? Answer: Paris.
+Question: What is the capital of Spain? Answer: Madrid.
+Question: Who painted the Mona Lisa? Answer: Leonardo da Vinci.
+Question: What is 100 divided by 10? Answer: 10.
+Question: What is the largest planet? Answer: Jupiter.
+Question: Who wrote Romeo and Juliet? Answer: William Shakespeare.
+Question: What is the chemical symbol for water? Answer: H2O.
+Question: What is 8 times 8? Answer: 64.
+Question: What is the capital of Italy? Answer: Rome.
+Question: Who discovered gravity? Answer: Isaac Newton.
+Question: What is the smallest planet? Answer: Mercury.
+Question: What is the longest river? Answer: The Nile River.
+Question: Who composed the Four Seasons? Answer: Antonio Vivaldi.
+Question: What is the square root of 100? Answer: 10.
+Question: What is the capital of Germany? Answer: Berlin.
+Question: Who painted Starry Night? Answer: Vincent van Gogh.
+Question: What is the largest ocean? Answer: The Pacific Ocean.
+Question: What is 7 times 9? Answer: 63.
+Question: Who wrote 1984? Answer: George Orwell.
+Question: What is the tallest mountain? Answer: Mount Everest.
+Question: What is the chemical symbol for gold? Answer: Au.
+Question: What is the capital of Japan? Answer: Tokyo.
+Question: Who painted The Last Supper? Answer: Leonardo da Vinci.
+Question: What is 12 times 10? Answer: 120.
+Question: What is the speed of light? Answer: Approximately 300,000 kilometers per second.
+Question: Who discovered penicillin? Answer: Alexander Fleming.
+Question: What is the capital of China? Answer: Beijing.
+Question: What is the boiling point of water? Answer: 100 degrees Celsius.
+Question: Who composed the Moonlight Sonata? Answer: Ludwig van Beethoven.
+Question: What is 50 times 2? Answer: 100.
+Question: What is the smallest continent? Answer: Australia.
+Question: Who painted the Sistine Chapel ceiling? Answer: Michelangelo.
+Question: What is the freezing point of water? Answer: 0 degrees Celsius.
+Question: What is 9 times 11? Answer: 99.
+Question: Who wrote The Great Gatsby? Answer: F. Scott Fitzgerald.
+Question: What is the capital of Russia? Answer: Moscow.
+Question: What is the chemical formula for salt? Answer: NaCl.
+Question: Who discovered America? Answer: Christopher Columbus.
+Question: What is the second largest planet? Answer: Saturn.
+Question: What is 6 times 6? Answer: 36.
+Question: Who composed Swan Lake? Answer: Pyotr Ilyich Tchaikovsky.
+Question: What is the capital of Canada? Answer: Ottawa.
+Question: Who was the first man on the moon? Answer: Neil Armstrong.
+Question: What is pi equal to? Answer: Approximately 3.14159.
+Question: What is the capital of Australia? Answer: Canberra.
+Question: Who wrote To Kill a Mockingbird? Answer: Harper Lee.
+Question: What is the smallest ocean? Answer: The Arctic Ocean.
+Question: What is 5 times 5? Answer: 25.
+Question: Who painted Girl with a Pearl Earring? Answer: Johannes Vermeer.
+Question: What is the capital of Brazil? Answer: Brasília.
+Question: What is the chemical symbol for oxygen? Answer: O.
+Question: Who invented the telephone? Answer: Alexander Graham Bell.
+Question: What is the capital of India? Answer: New Delhi.
+Question: What is 20 times 20? Answer: 400.
+Question: Who wrote Moby Dick? Answer: Herman Melville.
+Question: What is the capital of Mexico? Answer: Mexico City.
+Question: Who painted The Birth of Venus? Answer: Sandro Botticelli.
+Question: What is the square root of 64? Answer: 8.
+Question: What is the capital of Egypt? Answer: Cairo.
+Question: Who composed The Nutcracker? Answer: Pyotr Ilyich Tchaikovsky.
+Question: What is the closest planet to the Sun? Answer: Mercury.
+Question: What is 3 times 3? Answer: 9.
+Question: Who wrote The Odyssey? Answer: Homer.
+Question: What is the capital of Argentina? Answer: Buenos Aires.
+Question: What is the chemical symbol for iron? Answer: Fe.
+Question: Who painted Guernica? Answer: Pablo Picasso.
+Question: What is 4 times 4? Answer: 16.
+Question: What is the largest desert? Answer: The Sahara Desert.
+Question: Who invented the light bulb? Answer: Thomas Edison.
+Question: What is the capital of South Korea? Answer: Seoul.
+Question: Who wrote War and Peace? Answer: Leo Tolstoy.
+Question: What is the square root of 49? Answer: 7.
+Question: What is the capital of Turkey? Answer: Ankara.
+Question: Who composed Für Elise? Answer: Ludwig van Beethoven.
+Question: What planet is known as the Red Planet? Answer: Mars.
+Question: What is 2 times 2? Answer: 4.

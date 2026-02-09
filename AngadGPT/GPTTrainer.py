@@ -107,8 +107,15 @@ def train_step_simple(model, data_loader, optimizer, device):
         
         optimizer.zero_grad()
         
-        outputs = model(input_ids, labels=input_ids)
-        loss = outputs.loss
+        try:
+            outputs = model(input_ids, labels=targets)
+            loss = outputs.loss
+        except TypeError:
+            logits = model(input_ids)
+            loss = torch.nn.functional.cross_entropy(
+                logits.view(-1, logits.size(-1)),
+                targets.view(-1)
+            )
         
         loss.backward()
         torch.nn.utils.clip_grad_norm_(model.parameters(), 1.0)  
@@ -182,7 +189,7 @@ if __name__ == "__main__":
     
     
     print(f"\n🤖 Creating model...")
-    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    device = torch.device("mps" if torch.backends.mps.is_available() else "cpu")
     print(f"Using device: {device}")
     
     try:
