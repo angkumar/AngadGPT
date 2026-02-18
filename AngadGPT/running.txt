@@ -1,0 +1,2 @@
+python3 GPTTrainer.py --file trainingdata1.txt --epochs 10 --block_size 64 --batch_size 1 --accumulation_steps 8 --chunk_size 300 --output myangadgpt_model
+ python3 Pytry.py --model_path myangadgpt_model --interactive
